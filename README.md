@@ -1,2 +1,4 @@
 # datewithgit-sample
-A satic website
+A static website
+
+created by steve
